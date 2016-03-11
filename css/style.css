@@ -1,0 +1,25 @@
+body {
+	background-color: #000000
+}
+section {
+	width: 800px;
+	margin: 100px auto;
+}
+section h1,
+section p {
+	text-align: center;
+	color: #8D0061;
+}
+section h1 {
+	font: 45px 'Open Sans';
+}
+section p {
+	font: 20px 'Open Sans';
+}
+img {
+	width: 400px;
+    height: 200px;
+}
+.center {
+	display:block; margin:0 auto;
+}
